@@ -17,8 +17,12 @@ body{
 
 }
 .half-width img{
-  width: 650px;
-  height: 430px;
+  width: 610px;
+  height: 452px;
+  margin-top: -34px;
  
   
+}
+.top-banner{
+  background: url("../images/top-banner.png");
 }
