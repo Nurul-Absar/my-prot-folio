@@ -9,3 +9,16 @@ body{
 .name-high-light{
   color: orange;;
 }
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left: 6%;
+  padding: 2%;
+
+}
+.half-width img{
+  width: 650px;
+  height: 430px;
+ 
+  
+}
